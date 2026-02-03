@@ -285,10 +285,14 @@ html, body {
 
 .Events-container{
   background-color: white ;
-  height: 400px;
+  height: auto;
   width: 80%;
   border-radius: 40px;
+  padding: 2rem;
+  justify-content: baseline;
+  font-size: large;
 }
+
 
 .history-section{
   position: relative;

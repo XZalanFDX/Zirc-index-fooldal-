@@ -22,7 +22,7 @@ html, body {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  filter: blur(8px);
+  filter: blur(8px);   /* message */
 }
 
 .hero-text {
@@ -485,4 +485,5 @@ html, body {
 }
 
 .arrow.left { left: 10px; }
+
 .arrow.right { right: 10px; }
